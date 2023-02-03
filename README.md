@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **minhlynguyen/minhlynguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,6 +31,7 @@ https://www.sitepoint.com/github-profile-readme/
 </div>
 
 ___
+### Hi there 👋
 
 <div>
   <p>🔭 I’m currently a MSc Computer Science student at University College Dublin </p>
