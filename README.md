@@ -31,8 +31,7 @@ https://www.sitepoint.com/github-profile-readme/
 </div>
 
 ___
-### Hi there 👋
-
+### Hi there 👋 I'm Ly (Lee) 😊
 <div>
   <p>🔭 I’m currently a MSc Computer Science student at University College Dublin </p>
   <p>👯 I’m looking for graduate software engineer position in Dublin </p>
