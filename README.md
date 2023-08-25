@@ -29,23 +29,15 @@ ___
 
 <table>
   <tr>
-    <td>[RideMate 1.0](https://github.com/minhlynguyen/ucd-se-ridemate)</td>
-     <td>[Advantage 1.0](https://github.com/minhlynguyen/ucd-project-advantage)</td>
+    <td><a href="https://github.com/minhlynguyen/ucd-se-ridemate">RideMate 1.0</a></td>
+    <td><a href="https://github.com/minhlynguyen/ucd-project-advantage">Advantage 1.0</a></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/complete_ui.png" width=50% height=480></td>
-    <td><img src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/five_nearest_stations.gif" width=50% height=480></td>
+    <td><img src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/complete_ui.png"></td>
+    <td><img src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/five_nearest_stations.gif"></td>
   </tr>
  </table>
 
-[RideMate 1.0](https://github.com/minhlynguyen/ucd-se-ridemate)
-<img src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/complete_ui.png"/>
-
----
-[Advantage 1.0](https://github.com/minhlynguyen/ucd-project-advantage)
-<img src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/five_nearest_stations.gif"/>
-
----
 
 #### 2D game
 
