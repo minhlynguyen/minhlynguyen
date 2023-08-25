@@ -20,6 +20,7 @@ ___
   <p>🔭 I’m currently a MSc Computer Science student at University College Dublin </p>
   <p>👯 I’m looking for an entry-level software developer position in Ireland </p>
 </div>
+
 ---
 
 ### This is my Portfolio
@@ -57,14 +58,13 @@ ___
 
 #### 2D game
 
-<table>
+<table width=50%>
   <tr>
-    <th width=50%><a href="https://github.com/minhlynguyen/ucd-java-asteroid">Asteroid</a></td>
+    <th><a href="https://github.com/minhlynguyen/ucd-java-asteroid">Asteroid</a></td>
   </tr>
   <tr>
     <td>
-      <img alt="Java" src="https://img.shields.io/badge/Java-3776AB?logo=python&logoColor=white&style=flat" />
-      <img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-000000?logo=flask&logoColor=white&style=flat" />
+      <a href="https://www.java.com/en/"><img alt="Java" src="https://www.cdnlogo.com/logos/j/22/java.svg" height=5></a>      
     </td>
   </tr>
   <tr>
