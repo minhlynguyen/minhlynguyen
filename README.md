@@ -64,11 +64,11 @@ ___
   </tr>
   <tr>
     <td>
-      <a href="https://www.java.com/en/"><img alt="Java" src="https://www.cdnlogo.com/logos/j/22/java.svg" height=5></a>      
+      <a href="https://www.java.com/en/"><img alt="Java" src="https://www.cdnlogo.com/logos/j/22/java.svg" height=40></a>      
     </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/complete_ui.png" width=100%></td>
+    <td><img src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/complete_ui.png" width=380></td>
   </tr>
  </table>
 
