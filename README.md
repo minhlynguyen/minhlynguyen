@@ -33,6 +33,10 @@ ___
     <th><a href="https://github.com/minhlynguyen/ucd-project-advantage">Advantage 1.0</a></td>
   </tr>
   <tr>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" /></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" /></td>
+  </tr>
+  <tr>
     <td><img src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/complete_ui.png" width=100%></td>
     <td><img src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/five_nearest_stations.gif" width=100%></td>
   </tr>
