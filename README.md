@@ -27,10 +27,10 @@ ___
 
 #### Web application 
 
-<table style="table-layout: fixed; width: 100%; border: 1px solid transparent; text-align: center;">
-  <tr>
-    <td style="width: 50%; text-align: center;"><a href="https://github.com/minhlynguyen/ucd-se-ridemate">RideMate 1.0</a></td>
-    <td style="text-align: center;"><a href="https://github.com/minhlynguyen/ucd-project-advantage">Advantage 1.0</a></td>
+<table style="table-layout: fixed; width: 100%; border: 1px solid transparent;>
+  <tr style="text-align: center;">
+    <td width=50%><a href="https://github.com/minhlynguyen/ucd-se-ridemate">RideMate 1.0</a></td>
+    <td><a href="https://github.com/minhlynguyen/ucd-project-advantage">Advantage 1.0</a></td>
   </tr>
   <tr>
     <td><img src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/complete_ui.png" width=100%></td>
