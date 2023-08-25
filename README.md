@@ -19,13 +19,17 @@ ___
   <p>🔭 I’m currently a MSc Computer Science student at University College Dublin </p>
   <p>👯 I’m looking for an entry-level software developer position in Ireland </p>
 </div>
-
+---
 
 ### This is my Portfolio
 
 ---
 
 #### Web application 
+
+[RideMate 1.0](https://github.com/minhlynguyen/ucd-se-ridemate)  |  [Advantage 1.0](https://github.com/minhlynguyen/ucd-project-advantage)
+:-------------------------:|:-------------------------:
+![](https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/complete_ui.png)  |  ![](https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/five_nearest_stations.gif)
 
 [RideMate 1.0](https://github.com/minhlynguyen/ucd-se-ridemate)
 <img src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/complete_ui.png"/>
