@@ -1,6 +1,8 @@
+### Hi there 👋 It's Ly (Lee) here 😊
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" height="200"/>
-  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" height="200"/>
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" height="50"/>
+  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" height="50"/>
 </div>
 
 <div id="badges" align="center">
@@ -14,7 +16,6 @@
 </div>
 
 ___
-### Hi there 👋 I'm Ly (Lee) 😊
 <div>
   <p>🔭 I’m currently a MSc Computer Science student at University College Dublin </p>
   <p>👯 I’m looking for an entry-level software developer position in Ireland </p>
