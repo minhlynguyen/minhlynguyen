@@ -27,14 +27,26 @@ ___
 
 #### Web application 
 
-<table border=0>
+<table>
   <tr>
     <th width=50%><a href="https://github.com/minhlynguyen/ucd-se-ridemate">RideMate 1.0</a></td>
     <th><a href="https://github.com/minhlynguyen/ucd-project-advantage">Advantage 1.0</a></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" /></td>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" /></td>
+    <td>
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
+      <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat" />
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" />
+      <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat" />
+      <img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=amazonec2&logoColor=white&style=flat" />
+      <img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon RDS-527FFF?logo=amazonrds&logoColor=white&style=flat" />
+      <img alt="Google Maps" src="https://img.shields.io/badge/Google Maps-4285F4?logo=googlemaps&logoColor=white&style=flat" />
+    </td>
+    <td>
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
+      <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat" />
+      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
+    </td>
   </tr>
   <tr>
     <td><img src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/complete_ui.png" width=100%></td>
@@ -42,11 +54,22 @@ ___
   </tr>
  </table>
 
-
 #### 2D game
 
-[Asteroid](https://github.com/minhlynguyen/ucd-java-asteroid)
-<img src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/complete_ui.png"/>
+<table>
+  <tr>
+    <th width=50%><a href="https://github.com/minhlynguyen/ucd-java-asteroid">Asteroid</a></td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Java" src="https://img.shields.io/badge/Java-3776AB?logo=python&logoColor=white&style=flat" />
+      <img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-000000?logo=flask&logoColor=white&style=flat" />
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/complete_ui.png" width=100%></td>
+  </tr>
+ </table>
 
 ---
 
