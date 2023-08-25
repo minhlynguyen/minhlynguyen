@@ -27,7 +27,7 @@ ___
 
 #### Web application 
 
-<table>
+<table style="table-layout: fixed ; width: 100%;>
   <tr>
     <td><a href="https://github.com/minhlynguyen/ucd-se-ridemate">RideMate 1.0</a></td>
     <td><a href="https://github.com/minhlynguyen/ucd-project-advantage">Advantage 1.0</a></td>
