@@ -12,7 +12,7 @@
   <a href="mailto:lynm131@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" height="20" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=minhlynguyen&style=flat-square&color=blue" height="20" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=minhlynguyen&style=flat-square&color=blue" height="20" alt="View"/>
 </div>
 
 ___
@@ -34,12 +34,12 @@ Built with:
       <img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=amazonec2&logoColor=white&style=flat" />
       <img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon RDS-527FFF?logo=amazonrds&logoColor=white&style=flat" />
       <img alt="Google Maps" src="https://img.shields.io/badge/Google Maps-4285F4?logo=googlemaps&logoColor=white&style=flat" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/JCDecaux_logo.svg" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/JCDecaux_logo.svg" height="20"/>
 
 </p>
 
 <p align="center">
-  <img alt="RideMate demo" src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/five_nearest_stations.gif" width=30%>
+  <img alt="RideMate demo" src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/five_nearest_stations.gif" width=40%>
 </p>
 
 #### [Advantage 1.0](https://github.com/minhlynguyen/ucd-project-advantage): A web application showing the predicted busyness of NYC areas
@@ -52,7 +52,7 @@ Built with:
 </p>
 
 <p align="center">
-  <img alt="AdVantage demo" src="#" width=30%>
+  <img alt="AdVantage demo" src="#" width=40%>
 </p>
 
 #### [Asteroid](https://github.com/minhlynguyen/ucd-java-asteroid): a classic 2D game
