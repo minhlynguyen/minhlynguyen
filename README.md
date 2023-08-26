@@ -15,12 +15,15 @@
   <img src="https://komarev.com/ghpvc/?username=minhlynguyen&style=flat-square&color=blue" height="20" alt="View"/>
 </div>
 
-___
+&nbsp; &nbsp; &nbsp; &nbsp;
+
 <div>
   <p>🔭 I’m currently a MSc Computer Science student at University College Dublin </p>
   <p>👯 I’m looking for an entry-level software developer position in Ireland </p>
-  <p>💐 Below is some of my projects. 
+  <p>💐 Below is some of my projects. Clicking on the name of the project will take you to the corresponding repository.
 </div>
+
+**Thank you for visiting my GitHub** 🙏
 
 ---
 
