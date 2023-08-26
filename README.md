@@ -38,7 +38,7 @@ Built with:
 
 </p>
 
-<p align="center">
+<p>
   <img alt="RideMate demo" src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/five_nearest_stations.gif" width=40%>
 </p>
 
@@ -51,7 +51,7 @@ Built with:
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
 </p>
 
-<p align="center">
+<p>
   <img alt="AdVantage demo" src="#" width=40%>
 </p>
 
@@ -62,8 +62,8 @@ Built with:
   <a href="https://www.java.com/en/"><img alt="Java" src="https://www.cdnlogo.com/logos/j/22/java.svg" height=40></a>      
 </p>
 
-<p align="center">
-  <img alt="Asteroid demo" src="https://github.com/minhlynguyen/ucd-java-asteroid/blob/main/demo.gif" width=30%>
+<p>
+  <img alt="Asteroid demo" src="https://github.com/minhlynguyen/ucd-java-asteroid/blob/main/demo.gif" width=40%>
 </p>
 
 #### Analyses of Algorithms
