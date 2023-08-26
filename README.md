@@ -19,15 +19,32 @@ ___
 <div>
   <p>🔭 I’m currently a MSc Computer Science student at University College Dublin </p>
   <p>👯 I’m looking for an entry-level software developer position in Ireland </p>
+  <p>💐 Below is some of my projects. 
 </div>
 
 ---
 
-### This is my Portfolio
+#### RideMate 1.0: A web application showing the real-time availability of bikes and bike stands across Dublin bikes stations
 
----
+<p>
+Built with:  
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
+      <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat" />
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" />
+      <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat" />
+      <img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=amazonec2&logoColor=white&style=flat" />
+      <img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon RDS-527FFF?logo=amazonrds&logoColor=white&style=flat" />
+      <img alt="Google Maps" src="https://img.shields.io/badge/Google Maps-4285F4?logo=googlemaps&logoColor=white&style=flat" />
+</p>
 
-#### Web application 
+<p align="center">
+  <img alt="Sorting algorithm" src="https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst/blob/main/findings.png"/ width="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Full graph" src="https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst/blob/main/shortest-path-full-graph.png" width="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Shortest Path" src="https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst/blob/main/shortest-path.png" width="30%">
+</p>
+
 
 <table>
   <tr>
