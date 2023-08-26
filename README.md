@@ -68,7 +68,7 @@ ___
     </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/complete_ui.png"></td>
+    <td><img src="https://github.com/minhlynguyen/ucd-java-asteroid/blob/main/demo.gif"></td>
   </tr>
  </table>
 
@@ -77,7 +77,14 @@ ___
 #### Analyses of Algorithms
 
 [Sorting, Shortest Path and Minimum Spanning Tree](https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst)
-<img src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/complete_ui.png"/>
+
+<p align="center">
+  <img alt="Sorting algorithm" src="https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst/blob/main/findings.png"/ width="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Full graph" src="https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst/blob/main/shortest-path-full-graph.png" width="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Shortest Path" src="https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst/blob/main/shortest-path.png" width="30%">
+</p>
 
 ---
 
