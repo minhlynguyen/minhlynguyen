@@ -58,9 +58,9 @@ ___
 
 #### 2D game
 
-<table width=50%>
+<table>
   <tr>
-    <th><a href="https://github.com/minhlynguyen/ucd-java-asteroid">Asteroid</a></td>
+    <th width=50%><a href="https://github.com/minhlynguyen/ucd-java-asteroid">Asteroid</a></td>
   </tr>
   <tr>
     <td>
@@ -68,7 +68,7 @@ ___
     </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/complete_ui.png" width=380></td>
+    <td><img src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/complete_ui.png"></td>
   </tr>
  </table>
 
