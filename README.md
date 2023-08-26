@@ -24,8 +24,7 @@ ___
 
 ---
 
-#### RideMate 1.0: A web application showing the real-time availability of bikes and bike stands across Dublin bikes stations
-
+#### [RideMate 1.0](https://github.com/minhlynguyen/ucd-se-ridemate): A web application showing the real-time and predicted availability of bikes and bike stands across Dublin bike stations]
 <p>
 Built with:  
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
@@ -35,61 +34,37 @@ Built with:
       <img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=amazonec2&logoColor=white&style=flat" />
       <img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon RDS-527FFF?logo=amazonrds&logoColor=white&style=flat" />
       <img alt="Google Maps" src="https://img.shields.io/badge/Google Maps-4285F4?logo=googlemaps&logoColor=white&style=flat" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/JCDecaux_logo.svg" />
+
 </p>
 
 <p align="center">
-  <img alt="Sorting algorithm" src="https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst/blob/main/findings.png"/ width="30%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Full graph" src="https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst/blob/main/shortest-path-full-graph.png" width="30%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Shortest Path" src="https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst/blob/main/shortest-path.png" width="30%">
+  <img alt="RideMate demo" src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/five_nearest_stations.gif" width=30%>
 </p>
 
+#### [Advantage 1.0](https://github.com/minhlynguyen/ucd-project-advantage): A web application showing the predicted busyness of NYC areas
 
-<table>
-  <tr>
-    <th width=50%><a href="https://github.com/minhlynguyen/ucd-se-ridemate">RideMate 1.0</a></td>
-    <th><a href="https://github.com/minhlynguyen/ucd-project-advantage">Advantage 1.0</a></td>
-  </tr>
-  <tr>
-    <td>
-      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
-      <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat" />
-      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" />
-      <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat" />
-      <img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=amazonec2&logoColor=white&style=flat" />
-      <img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon RDS-527FFF?logo=amazonrds&logoColor=white&style=flat" />
-      <img alt="Google Maps" src="https://img.shields.io/badge/Google Maps-4285F4?logo=googlemaps&logoColor=white&style=flat" />
-    </td>
-    <td>
-      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
-      <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat" />
-      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/complete_ui.png" width=100%></td>
-    <td><img src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/five_nearest_stations.gif" width=100%></td>
-  </tr>
- </table>
+<p>
+Built with:  
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
+</p>
 
-#### 2D game
+<p align="center">
+  <img alt="AdVantage demo" src="#" width=30%>
+</p>
 
-<table>
-  <tr>
-    <th width=50%><a href="https://github.com/minhlynguyen/ucd-java-asteroid">Asteroid</a></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.java.com/en/"><img alt="Java" src="https://www.cdnlogo.com/logos/j/22/java.svg" height=40></a>      
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/minhlynguyen/ucd-java-asteroid/blob/main/demo.gif"></td>
-  </tr>
- </table>
+#### [Asteroid](https://github.com/minhlynguyen/ucd-java-asteroid): a classic 2D game
 
----
+<p>
+Built with:  
+  <a href="https://www.java.com/en/"><img alt="Java" src="https://www.cdnlogo.com/logos/j/22/java.svg" height=40></a>      
+</p>
+
+<p align="center">
+  <img alt="Asteroid demo" src="https://github.com/minhlynguyen/ucd-java-asteroid/blob/main/demo.gif" width=30%>
+</p>
 
 #### Analyses of Algorithms
 
@@ -103,9 +78,7 @@ Built with:
   <img alt="Shortest Path" src="https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst/blob/main/shortest-path.png" width="30%">
 </p>
 
----
-
 #### Data analytics & Machine Learning
 
 [Covid-19](https://github.com/minhlynguyen/ucd-da-covid-death-prediction)
-<img src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/complete_ui.png"/>
+<img src="#"/>
