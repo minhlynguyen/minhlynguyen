@@ -27,6 +27,8 @@
 
 ---
 
+### Web applications
+
 #### [RideMate 1.0](https://github.com/minhlynguyen/ucd-se-ridemate): A web application showing the real-time and predicted availability of bikes and bike stands across Dublin bike stations]
 <p>
 Built with:  
@@ -58,7 +60,9 @@ Built with:
   <img alt="AdVantage demo" src="#" width=40%>
 </p>
 
-#### [Asteroid](https://github.com/minhlynguyen/ucd-java-asteroid): a classic 2D game
+---
+
+### [Asteroid](https://github.com/minhlynguyen/ucd-java-asteroid): a classic 2D game
 
 <p>
 Built with:  
@@ -69,9 +73,11 @@ Built with:
   <img alt="Asteroid demo" src="https://github.com/minhlynguyen/ucd-java-asteroid/blob/main/demo.gif" width=40%>
 </p>
 
-#### Analyses of Algorithms
+--- 
 
-[Sorting, Shortest Path and Minimum Spanning Tree](https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst)
+### Study of Algorithms
+
+#### [Sorting, Shortest Path and Minimum Spanning Tree](https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst)
 
 <p align="center">
   <img alt="Sorting algorithm" src="https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst/blob/main/findings.png"/ width="30%">
@@ -81,7 +87,9 @@ Built with:
   <img alt="Shortest Path" src="https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst/blob/main/shortest-path.png" width="30%">
 </p>
 
-#### Data analytics & Machine Learning
+---
 
-[Covid-19](https://github.com/minhlynguyen/ucd-da-covid-death-prediction)
-<img src="#"/>
+### Data analytics & Machine Learning
+
+#### [Covid-19's death outcome prediction models](https://github.com/minhlynguyen/ucd-da-covid-death-prediction)
+<img alt="Models' result" src="#"/>
