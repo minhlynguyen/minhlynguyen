@@ -62,7 +62,9 @@ Built with:
 
 ---
 
-### [Asteroid](https://github.com/minhlynguyen/ucd-java-asteroid): a classic 2D game
+### JavaFX 2D game
+
+#### [Asteroid](https://github.com/minhlynguyen/ucd-java-asteroid):
 
 <p>
 Built with:  
@@ -79,7 +81,7 @@ Built with:
 
 #### [Sorting, Shortest Path and Minimum Spanning Tree](https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst)
 
-<p align="center">
+<p>
   <img alt="Sorting algorithm" src="https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst/blob/main/findings.png"/ width="30%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Full graph" src="https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst/blob/main/shortest-path-full-graph.png" width="30%">
