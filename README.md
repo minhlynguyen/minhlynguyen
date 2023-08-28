@@ -29,6 +29,22 @@
 
 ### Web applications
 
+#### [AdVantage 1.0](https://github.com/minhlynguyen/ucd-project-advantage): A web application showing the predicted busyness of NYC areas
+
+<p>
+Built with:  
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
+  <img alt="DjangoRestFramework" src="https://www.django-rest-framework.org/img/logo.png" height=20/>
+</p>
+
+<p>
+  <img alt="Home page" src="https://github.com/minhlynguyen/ucd-project-advantage/blob/feature/readme/demo/homepage-without-user-authentication-light.gif" width="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Authenticated user can view Solution page" src="https://github.com/minhlynguyen/ucd-project-advantage/blob/feature/readme/demo/authentication-allow-user-to-view-solutions-light.gif" width="30%">
+</p>
+
 #### [RideMate 1.0](https://github.com/minhlynguyen/ucd-se-ridemate): A web application showing the real-time and predicted availability of bikes and bike stands across Dublin bike stations
 <p>
 Built with:  
@@ -45,22 +61,6 @@ Built with:
 
 <p>
   <img alt="RideMate demo" src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/five_nearest_stations.gif" width=40%>
-</p>
-
-#### [Advantage 1.0](https://github.com/minhlynguyen/ucd-project-advantage): A web application showing the predicted busyness of NYC areas
-
-<p>
-Built with:  
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
-  <img alt="DjangoRestFramework" src="https://www.django-rest-framework.org/img/logo.png" height=20/>
-</p>
-
-<p>
-  <img alt="Home page" src="demo/homepage-without-user-authentication-light.gif" width="30%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Authenticated user can view Solution page" src="demo/authentication-allow-user-to-view-solutions-light.gif" width="30%">
 </p>
 
 ---
