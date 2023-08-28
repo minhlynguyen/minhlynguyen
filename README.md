@@ -29,7 +29,7 @@
 
 ### Web applications
 
-#### [RideMate 1.0](https://github.com/minhlynguyen/ucd-se-ridemate): A web application showing the real-time and predicted availability of bikes and bike stands across Dublin bike stations]
+#### [RideMate 1.0](https://github.com/minhlynguyen/ucd-se-ridemate): A web application showing the real-time and predicted availability of bikes and bike stands across Dublin bike stations
 <p>
 Built with:  
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
@@ -54,10 +54,13 @@ Built with:
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
+  <img alt="DjangoRestFramework" src="https://www.django-rest-framework.org/img/logo.png" height=20/>
 </p>
 
 <p>
-  <img alt="AdVantage demo" src="#" width=40%>
+  <img alt="Home page" src="demo/homepage-without-user-authentication-light.gif" width="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Authenticated user can view Solution page" src="demo/authentication-allow-user-to-view-solutions-light.gif" width="30%">
 </p>
 
 ---
@@ -68,11 +71,11 @@ Built with:
 
 <p>
 Built with:  
-  <a href="https://www.java.com/en/"><img alt="Java" src="https://www.cdnlogo.com/logos/j/22/java.svg" height=40></a>      
+  <a href="https://www.java.com/en/"><img alt="Java" src="https://www.cdnlogo.com/logos/j/22/java.svg" height=20></a>      
 </p>
 
 <p>
-  <img alt="Asteroid demo" src="https://github.com/minhlynguyen/ucd-java-asteroid/blob/main/demo.gif" width=40%>
+  <img alt="Asteroid demo" src="https://github.com/minhlynguyen/ucd-java-asteroid/blob/main/demo.gif" width=30%>
 </p>
 
 --- 
@@ -82,7 +85,7 @@ Built with:
 #### [Sorting, Shortest Path and Minimum Spanning Tree](https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst)
 
 <p>
-  <img alt="Sorting algorithm" src="https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst/blob/main/findings.png"/ width="30%">
+  <img alt="Sorting algorithm" src="https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst/blob/main/findings.png" width="30%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Full graph" src="https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst/blob/main/shortest-path-full-graph.png" width="30%">
 &nbsp; &nbsp; &nbsp; &nbsp;
@@ -94,4 +97,11 @@ Built with:
 ### Data analytics & Machine Learning
 
 #### [Covid-19's death outcome prediction models](https://github.com/minhlynguyen/ucd-da-covid-death-prediction)
-<img alt="Models' result" src="#"/>
+
+<p>
+  <img alt="Three models" src="https://github.com/minhlynguyen/ucd-da-covid-death-prediction/blob/main/assets/models-results.png" width="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Improve random forest" src="https://github.com/minhlynguyen/ucd-da-covid-death-prediction/blob/main/assets/models-improvements.png" width="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Discussions" src="https://github.com/minhlynguyen/ucd-da-covid-death-prediction/blob/main/assets/discussion-on-results.png" width="30%">
+</p>
