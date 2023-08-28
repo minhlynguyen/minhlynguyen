@@ -84,13 +84,13 @@ Built with:
 
 #### [Sorting, Shortest Path and Minimum Spanning Tree](https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst)
 
-<p>
+<div>
   <img alt="Sorting algorithm" src="https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst/blob/main/findings.png" width="30%">
-&nbsp; &nbsp; &nbsp; &nbsp;
+  <div width="3%"></div>  
   <img alt="Full graph" src="https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst/blob/main/shortest-path-full-graph.png" width="30%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Shortest Path" src="https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst/blob/main/shortest-path.png" width="30%">
-</p>
+</div>
 
 ---
 
