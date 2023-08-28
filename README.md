@@ -41,7 +41,7 @@ Built with:
 
 <p>
   <img alt="Home page" src="https://github.com/minhlynguyen/ucd-project-advantage/blob/feature/readme/demo/homepage-without-user-authentication-light.gif" width="30%">
-&nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp;
   <img alt="Authenticated user can view Solution page" src="https://github.com/minhlynguyen/ucd-project-advantage/blob/feature/readme/demo/authentication-allow-user-to-view-solutions-light.gif" width="30%">
 </p>
 
@@ -60,7 +60,7 @@ Built with:
 </p>
 
 <p>
-  <img alt="RideMate demo" src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/five_nearest_stations.gif" width=40%>
+  <img alt="RideMate demo" src="https://github.com/minhlynguyen/ucd-se-ridemate/blob/main/static/five_nearest_stations.gif" width=30%>
 </p>
 
 ---
@@ -84,13 +84,13 @@ Built with:
 
 #### [Sorting, Shortest Path and Minimum Spanning Tree](https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst)
 
-<div>
+<p>
   <img alt="Sorting algorithm" src="https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst/blob/main/findings.png" width="30%">
-  <div width="3%"></div>  
+&nbsp; &nbsp; &nbsp;
   <img alt="Full graph" src="https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst/blob/main/shortest-path-full-graph.png" width="30%">
-&nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp;
   <img alt="Shortest Path" src="https://github.com/minhlynguyen/ucd-dsa-sorting-sp-mst/blob/main/shortest-path.png" width="30%">
-</div>
+</p>
 
 ---
 
