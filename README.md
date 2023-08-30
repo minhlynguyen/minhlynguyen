@@ -20,7 +20,7 @@
 <div>
   <p>🔭 I’m currently a Computer Science student at University College Dublin. </p>
   <p>👯 I will finish my degree on January 2024 and I am looking for an entry-level software developer position in Ireland starting then. </p>
-  <p>💐 Below is some of my highlighted projects. Clicking on the name of the project will take you to the corresponding repository. </p>
+  <p>💐 Below are some of my highlighted projects. Clicking on the name of the project will take you to the corresponding repository. </p>
 </div>
 
 ** Thank you for visiting my GitHub 🙏 ** 
