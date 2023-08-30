@@ -18,12 +18,14 @@
 &nbsp; &nbsp; &nbsp; &nbsp;
 
 <div>
-  <p>🔭 I’m currently a Computer Science student at University College Dublin </p>
-  <p>👯 I’m looking for an entry-level software developer position in Ireland </p>
+  <p>🔭 I’m currently a Computer Science student at University College Dublin. </p>
+  <p>👯 I’m looking for an entry-level software developer position in Ireland. </p>
   <p>💐 Below is some of my highlighted projects. Clicking on the name of the project will take you to the corresponding repository. </p>
 </div>
 
-**Thank you for visiting my GitHub** 🙏. Feel free to contact me via my [email](mailto:lynm131@gmail.com) or my [linkedin](https://www.linkedin.com/in/lymnguyen123/).
+** Thank you for visiting my GitHub 🙏 ** 
+Feel free to contact me via my [email](mailto:lynm131@gmail.com) or my [linkedin](https://www.linkedin.com/in/lymnguyen123/).
+
 ---
 
 ### Web applications
